@@ -1,5 +1,6 @@
 #Author :- Madhukant Dinker
 #Date :- 24 Aug 2019
+#Detail :- Sample flask app
 
 import numpy as np
 from flask import Flask, request, jsonify, render_template
